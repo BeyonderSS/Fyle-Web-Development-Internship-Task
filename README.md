@@ -1,6 +1,6 @@
 # GitHub Repositories Listing Web App
 
-![GitHub Repositories Listing](link-to-your-image)
+![GitHub Repositories Listing](https://fyle-web-development-internship-task.vercel.app/projectSS.png)
 
 ## Overview
 
