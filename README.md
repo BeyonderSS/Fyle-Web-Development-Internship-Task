@@ -35,7 +35,7 @@ To run this web app on your local machine, follow these steps:
 4. Run the Tailwind CSS compiler to generate the styles:
 
    ```bash
-   npx tailwindcss -i ./input.css -o ./output.css --watch
+   npx tailwindcss -i ./public/styles.css -o ./public/output.css --watch
    ```
 5. Open the `index.html` file in your preferred web browser.
 
