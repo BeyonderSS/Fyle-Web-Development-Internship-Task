@@ -41,13 +41,9 @@ To run this web app on your local machine, follow these steps:
 
 ## Hosted Web App
 
-Access the hosted web app by visiting [Web App Link](link-to-hosted-app).
+Access the hosted web app by visiting [https://fyle-web-development-internship-task.vercel.app/](https://fyle-web-development-internship-task.vercel.app/).
 
 ## Additional Information
 
 - For any questions or inquiries, feel free to contact me at [bpuneet2003@gmail.com]().
 - Contributions and feedback are welcome!
-
-```
-
-```
