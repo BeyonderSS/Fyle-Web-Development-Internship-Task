@@ -4,7 +4,7 @@
   "description": "GitHub Repositories Listing Web App",
   "main": "index.html",
   "scripts": {
-    "build": "npx tailwindcss -i ./styles.css -o ./public/output.css"
+    "build": "npx tailwindcss -i ./public/styles.css -o ./public/output.css"
   },
   "author": "BeyonderSS",
   "license": "ISC"
