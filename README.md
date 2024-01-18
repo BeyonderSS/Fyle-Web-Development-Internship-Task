@@ -1,5 +1,3 @@
-
-```markdown
 # GitHub Repositories Listing Web App
 
 ![GitHub Repositories Listing](link-to-your-image)
@@ -24,25 +22,21 @@ To run this web app on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/Fyle-Web-Development-Internship-Task.git
    ```
-
 2. Navigate to the project directory:
 
    ```bash
    cd Fyle-Web-Development-Internship-Task
    ```
-
 3. Install the required dependencies:
 
    ```bash
    npm install
    ```
-
 4. Run the Tailwind CSS compiler to generate the styles:
 
    ```bash
-   npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+   npx tailwindcss -i ./input.css -o ./output.css --watch
    ```
-
 5. Open the `index.html` file in your preferred web browser.
 
 ## Hosted Web App
@@ -51,7 +45,9 @@ Access the hosted web app by visiting [Web App Link](link-to-hosted-app).
 
 ## Additional Information
 
-- For any questions or inquiries, feel free to contact me at your-email@example.com.
+- For any questions or inquiries, feel free to contact me at [bpuneet2003@gmail.com]().
 - Contributions and feedback are welcome!
+
 ```
 
+```

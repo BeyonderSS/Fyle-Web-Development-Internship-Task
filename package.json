@@ -1,0 +1,11 @@
+{
+  "name": "fyle-web-development-internship-task",
+  "version": "1.0.0",
+  "description": "![GitHub Repositories Listing](link-to-your-image)",
+  "main": "index.html",
+  "scripts": {
+    "build": "npx tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "author": "BeyonderSS",
+  "license": "ISC"
+}
